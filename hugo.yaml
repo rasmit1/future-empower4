@@ -61,6 +61,7 @@ params:
   disableThemeToggle: false
 
   label:
+    text: "Home"
     iconSVG: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" role=\"img\" aria-hidden=\"true\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#1a5c3a\"/><text x=\"50%\" y=\"55%\" font-family=\"Inter, sans-serif\" font-size=\"20\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#ffffff\">FE</text></svg>"
     icon: "/images/logo-mark.svg"
     iconHeight: 40
@@ -91,19 +92,6 @@ params:
 
 
   # Home page hero
-  homeInfoParams:
-    Label: "AI TRANSFORMATION • Rashmi Mittal"
-    Title: "AI programs fail for reasons that have nothing to do with AI."
-    Content: "Thought leadership and field-tested tools for leaders who need to build it right — not just fast. Executive thinking. Team-level execution."
-    CallToAction:
-      Primary:
-        Text: "Explore the playbooks"
-        URL: "/playbooks/"
-      Secondary:
-        Text: "Read the latest take"
-        URL: "/takes/"
-      
-
   assets:
     disableHLJS: false    
     favicon: "/images/favicon.svg"
