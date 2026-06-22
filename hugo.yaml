@@ -1,0 +1,159 @@
+baseURL: "https://www.futureempowered.com/"
+languageCode: "en-us"
+title: "Future Empowered"
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+
+pagination:
+  pagerSize: 10
+
+  
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Main navigation
+menu:
+  main:
+    - name: "Insights"
+      pageRef: "/insights"
+      weight: 10
+
+    - name: "Playbooks"
+      pageRef: "/playbooks"
+      weight: 20
+
+    - name: "Field Guides"
+      pageRef: "/field-guides"
+      weight: 30
+
+    - name: "Tools"
+      pageRef: "/tools"
+      weight: 40
+
+    - name: "About"
+      pageRef: "/about"
+      weight: 50
+
+    - name: "Work with me"
+      pageRef: "/work-with-me"
+      weight: 60
+
+# Site parameters
+params:
+  env: "production"
+  title: "`ture Empowered"
+  description: "Future Empowered helps organizations design and build the systems of tomorrow — integrating strategy, technology, AI, operations, and control into a unified transformation engine that empowers people and accelerates performance."
+  author: "Rashmi Mittal"
+  email: "futureempoweredenabler@gmail.com"
+
+  defaultTheme: "light"
+  disableThemeToggle: false
+
+  label:
+    iconSVG: "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" role=\"img\" aria-hidden=\"true\"><rect width=\"48\" height=\"48\" rx=\"12\" fill=\"#1a5c3a\"/><text x=\"50%\" y=\"55%\" font-family=\"Inter, sans-serif\" font-size=\"20\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#ffffff\">FE</text></svg>"
+    icon: "/images/logo-mark.svg"
+    iconHeight: 40
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowToc: true
+  TocOpen: true
+
+
+  buttons:
+    - name: Archive
+      url: "/archive"
+
+
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  # Brand tagline — used in nav subtitle and footer
+  brandTagline: "Enabled today. Empowered for tomorrow."
+
+  # Home page hero
+  homeInfoParams:
+    Label: "AI TRANSFORMATION • Rashmi Mittal"
+    Title: "AI programs fail for reasons that have nothing to do with AI."
+    Content: "Thought leadership and field-tested tools for leaders who need to build it right — not just fast. Executive thinking. Team-level execution."
+    CallToAction:
+      Primary:
+        Text: "Explore the playbooks"
+        URL: "/playbooks/"
+      Secondary:
+        Text: "Read the latest take"
+        URL: "/takes/"
+      
+
+  assets:
+    disableHLJS: false    
+    favicon: "/images/favicon.svg"
+    favicon16x16: "/images/favicon.svg"
+    favicon32x32: "/images/favicon.svg"
+    apple_touch_icon: "/images/favicon.svg"
+    enableSiteSearch: true
+
+
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/mittalrashmi"
+    - name: email
+      url: "mailto:your-email@example.com"
+
+
+  showSocialIcons: true
+  footer:
+    socialIcons: false
+    
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  series: "series"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+  highlight:
+    noClasses: false
+
+  mainSections:
+    - blog
+    - docs
+ 
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
