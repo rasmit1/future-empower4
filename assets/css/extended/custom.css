@@ -1,0 +1,433 @@
+/* ════════════════════════════════════════════════════════════════
+   FUTURE EMPOWERED — BRAND CSS OVERRIDE
+   Place at: assets/css/extended/custom.css
+   PaperMod auto-loads any .css file in assets/css/extended/
+   ════════════════════════════════════════════════════════════════ */
+
+:root {
+  --fe-green: #1a5c3a;
+  --fe-green-mid: #2a7a4e;
+  --fe-green-pale: #eef7f2;
+  --fe-gold: #c49a2a;
+  --fe-gold-pale: #f5e6b8;
+  --fe-charcoal: #1a5c3a;
+  --fe-mid: #4a4a4a;
+  --fe-light: #888888;
+  --fe-rule: #e0e0dc;
+  --fe-bg: #fafaf8;
+  --fe-white: #ffffff;
+
+  /* Override PaperMod's theme variables */
+  --theme: var(--fe-bg);
+  --entry: var(--fe-white);
+  --primary: var(--fe-charcoal);
+  --secondary: var(--fe-mid);
+  --tertiary: var(--fe-green-pale);
+  --content: var(--fe-mid);
+  --code-block-bg: #122f23;
+  --border: var(--fe-rule);
+  --accent: var(--fe-green);
+}
+
+/* ── Body & base ── */
+body {
+  background: var(--fe-bg);
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif;
+}
+
+/* ── Header / Nav ── */
+.nav {
+  background: var(--fe-white);
+  border-bottom: 0.5px solid var(--fe-rule);
+}
+
+.logo a {
+  color: var(--fe-charcoal) !important;
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.logo a img,
+.logo a svg {
+  height: 40px;
+  width: auto;
+}
+
+.logo-switches { display: none; }
+
+#menu a {
+  color: var(--fe-mid);
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 4px;
+  transition: all 0.15s ease;
+}
+
+#menu a:hover,
+#menu a.active {
+  color: var(--fe-green) !important;
+  border-bottom-color: var(--fe-green);
+}
+
+/* "Work with me" gets CTA treatment — it's the last menu item */
+#menu ul li:last-child a {
+  background: var(--fe-green);
+  color: white !important;
+  padding: 6px 16px;
+  border-radius: 6px;
+  border-bottom: none !important;
+}
+#menu ul li:last-child a:hover {
+  background: var(--fe-green-mid);
+  border-bottom: none !important;
+}
+
+/* ── Home info / hero ── */
+.home-info {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(239,247,242,0.85) 100%);
+  border-radius: 22px;
+  border: 1px solid rgba(26,92,58,0.08);
+  box-shadow: 0 24px 60px rgba(26,92,58,0.08);
+  padding: 3.5rem 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.home-info .entry-header {
+  max-width: 700px;
+}
+
+.home-info-label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  color: var(--fe-green);
+  background: rgba(234, 246, 239, 0.8);
+  border: 1px solid rgba(26, 92, 58, 0.12);
+  margin-bottom: 1rem;
+}
+
+.home-info .entry-header h1 {
+    font-size: clamp(1rem, 2vw, 2.2rem);
+    letter-spacing: -0.045em;
+    color: var(--fe-charcoal);
+    margin-bottom: 1rem;
+    font-weight: 700;
+
+.home-info .entry-content {
+  max-width: 640px;
+}
+
+.home-info .entry-content p {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--fe-mid);
+  margin-bottom: 1.75rem;
+}
+
+.home-hero-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0 1.4rem;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+}
+
+.button:hover,
+.button:focus-visible {
+  transform: translateY(-1px);
+}
+
+.button-primary {
+  background: var(--fe-green);
+  color: white;
+  box-shadow: 0 16px 32px rgba(26,92,58,0.16);
+}
+
+.button-primary:hover {
+  background: var(--fe-green-mid);
+}
+
+.button-secondary {
+  background: transparent;
+  color: var(--fe-charcoal);
+  border: 1px solid rgba(26,92,58,0.14);
+}
+
+.button-secondary:hover {
+  background: rgba(26,92,58,0.05);
+}
+
+@media screen and (max-width: 900px) {
+  .home-info {
+    padding: 2.5rem 1.5rem;
+  }
+
+  .home-info .entry-header h1 {
+    font-size: 2.8rem;
+  }
+}
+
+/* ── Entry cards (article list items) ── */
+.first-entry,
+.entry {
+  background: var(--fe-white);
+  border: 0.5px solid var(--fe-rule);
+  border-radius: 10px;
+  transition: border-color 0.15s ease;
+}
+
+.first-entry:hover,
+.entry:hover {
+  border-color: var(--fe-green);
+}
+
+.entry-header h2 {
+  color: var(--fe-charcoal);
+  font-weight: 600;
+}
+
+.entry .entry-header { color: var(--fe-charcoal); }
+
+.post-entry .entry-content { color: var(--fe-mid); }
+
+/* Category / section labels */
+.post-single .post-meta,
+.entry-content .post-meta {
+  color: var(--fe-light);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.75rem;
+}
+
+/* ── Featured / first entry treatment — dark card ── */
+.first-entry {
+  background: var(--fe-charcoal) !important;
+  border: none !important;
+}
+.first-entry .entry-header h2 {
+  color: white !important;
+}
+.first-entry .entry-content {
+  color: #aaa !important;
+}
+.first-entry .entry-footer {
+  color: #888 !important;
+}
+
+/* ── Buttons ── */
+.entry-link::before { display: none; }
+
+/* ── Single post page ── */
+.post-single {
+  max-width: 720px;
+}
+
+.post-title {
+  color: var(--fe-charcoal);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  font-size: 16px;
+}
+
+.post-subtitle {
+  color: var(--fe-charcoal);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  font-size: 13px;
+}
+
+
+.post-content {
+  color: var(--fe-mid);
+  line-height: 1.75;
+  font-size: 1.02rem;
+}
+
+.md-content h1 {
+  font-size: 24px;
+}
+
+.md-content h2,
+.post-content h2 {
+  font-size: 18px;
+  color: var(--fe-charcoal);
+  border-bottom: 1px solid var(--fe-rule);
+  padding-bottom: 0.4rem;
+  margin-top: 2rem;
+}
+
+.md-content h3,
+.post-content h3 {
+  font-size: 16px;
+  color: var(--fe-charcoal);
+}
+
+.md-content h4 {
+  font-size: 14px;
+}
+
+.md-content h5 {
+  font-size: 12px;
+}
+
+.post-content blockquote {
+  border-left: 3px solid var(--fe-green);
+  background: var(--fe-green-pale);
+  padding: 0.8rem 1.2rem;
+  border-radius: 0 8px 8px 0;
+  color: var(--fe-green);
+  font-weight: 500;
+}
+
+.post-content a {
+  color: var(--fe-green);
+  text-decoration-color: var(--fe-gold);
+}
+
+.post-content code {
+  background: var(--fe-green-pale);
+  color: var(--fe-green);
+}
+
+.post-content table th {
+  background: var(--fe-charcoal);
+  color: white;
+}
+
+.post-content table tr:nth-child(even) {
+  background: var(--fe-bg);
+}
+
+/* Checkbox styling for tool/playbook pages */
+.post-content input[type="checkbox"] {
+  accent-color: var(--fe-green);
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}
+
+/* ── Download / CTA callout block ── */
+.fe-download-cta {
+  background: var(--fe-charcoal);
+  border-radius: 10px;
+  padding: 18px 20px;
+  margin: 24px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.fe-download-cta .fe-label {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--fe-gold);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-bottom: 4px;
+}
+.fe-download-cta .fe-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: white;
+}
+.fe-download-cta a {
+  background: var(--fe-gold);
+  color: var(--fe-charcoal) !important;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+/* ── Footer ── */
+.footer {
+  background: var(--fe-green);
+  color: rgba(255, 255, 255, 0.85);
+  border-top: none;
+  padding: 2rem 1.5rem;
+}
+.footer a {
+  color: rgba(255, 255, 255, 0.85);
+}
+.footer a:hover {
+  color: white;
+}
+
+/* ── Tags / pills ── */
+.entry-content .post-tags a,
+ul.post-tags li a {
+  background: var(--fe-green-pale);
+  color: var(--fe-green);
+  border: none;
+  font-size: 0.75rem;
+  border-radius: 20px;
+}
+
+/* ── Search ── */
+.header-search-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+/* Logo mark in header */
+.logo-mark {
+  height: 36px;
+  width: auto;
+  margin-right: 0.6rem;
+  vertical-align: middle;
+}
+
+/* ── Section page headers (Takes, Playbooks, etc) ── */
+.archive-header h1,
+.page-header h1 {
+  color: var(--fe-charcoal);
+  font-weight: 600;
+  font-size: 32px;
+}
+
+/* ── Dark mode adjustments ── */
+.dark {
+  --fe-bg: #181a18;
+  --fe-white: #1f221f;
+  --fe-charcoal: #0f100f;
+  --fe-mid: #b8b8b4;
+  --fe-rule: #2e312e;
+}
+body::before {
+  content: "";
+  background: url("/images/future-empowered-watermark.png") no-repeat center center;
+  background-size: 300px;
+  opacity: 0.05;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
