@@ -90,17 +90,17 @@ params:
   brandTagline: "Enabled today. Empowered for tomorrow."
 
   # Home page hero
-  homeInfoParams:
-    Label: "AI TRANSFORMATION • Rashmi Mittal"
-    Title: "AI programs fail for reasons that have nothing to do with AI."
-    Content: "Thought leadership and field-tested tools for leaders who need to build it right — not just fast. Executive thinking. Team-level execution."
-    CallToAction:
-      Primary:
-        Text: "Explore the playbooks"
-        URL: "/playbooks/"
-      Secondary:
-        Text: "Read the latest take"
-        URL: "/takes/"
+#  homeInfoParams:
+#   Label: "AI TRANSFORMATION • Rashmi Mittal"
+#    Title: "AI programs fail for reasons that have nothing to do with AI."
+#    Content: "Thought leadership and field-tested tools for leaders who need to build it right — not just fast. Executive thinking. Team-level execution."
+#    CallToAction:
+#      Primary:
+#       Text: "Explore the playbooks"
+#        URL: "/playbooks/"
+#      Secondary:
+#        Text: "Read the latest take"
+#        URL: "/takes/"
       
 
   assets:
