@@ -1,3 +1,4 @@
+
 ---
 title: "The False-Failure Framework: Diagnosing AI Operational Friction"
 date: 2026-06-15T08:00:00-04:00
@@ -13,13 +14,7 @@ weight: 110
 menu: side
 categories: ["Futuristic Transformation","Business Strategy"]
 ---
----
-title: "The False-Failure Framework: Diagnosing AI Operational Friction"
-date: 2026-06-15T08:00:00-04:00
-draft: false
-description: "Before you retrain a failing model, map its operational blast radius. The most expensive fix in enterprise AI is solving the wrong problem."
-url: "/false-failure-framework/"
----
+
 
 The most expensive mistake in enterprise AI is spending $100k+ on data engineering to solve a basic corporate governance problem. 
 

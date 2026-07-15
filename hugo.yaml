@@ -29,12 +29,12 @@ menu:
       pageRef: "/insights"
       weight: 10
 
-    - name: "Playbooks"
-      pageRef: "/playbooks"
+    - name: "Services"
+      pageRef: "/services"
       weight: 20
 
-    - name: "Field Guides"
-      pageRef: "/field-guides"
+    - name: "Guides"
+      pageRef: "/guides"
       weight: 30
 
     - name: "Tools"
@@ -45,9 +45,7 @@ menu:
       pageRef: "/about"
       weight: 50
 
-    - name: "Work with me"
-      pageRef: "/work-with-me"
-      weight: 60
+   
 
 # Site parameters
 params:
