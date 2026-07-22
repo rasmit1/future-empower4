@@ -29,7 +29,7 @@ Operational frameworks, checklists, and interactive scorecards you can run again
 
 **4. Review My Background & Track Record**
 A 15+ year track record of enterprise execution across global banks and fintech lenders — including a platform stalled for three years, relaunched in a single quarter.
-[Read the Full About Page](/about/)
+[Read the Full About Page](about/)
 
 ## Get in Touch
 
