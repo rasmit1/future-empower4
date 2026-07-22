@@ -17,11 +17,11 @@ Select a section below to explore how I work, what I've learned, and the tools I
 
 **1. Review Services & Engagement Models**
 If your organization is navigating complex cloud, data, or AI transformations and needs an executive to clear bottlenecks, align control partners, and hold delivery accountable.
-[View My Services & How I Work](/services/)
+[View My Services & How I Work](services/)
 
 **2. Read Enterprise Insights**
 Deep dives on technical architecture, product strategy, and organizational design for highly regulated sectors.
-[Read "Embedding vs. Creating: The 5 Strategic Pillars of AI Deployment Architecture"](/insights/embedding-vs-creating/)
+[Read "Embedding vs. Creating: The 5 Strategic Pillars of AI Deployment Architecture"](insights/embedding-vs-creating/)
 
 **3. Access Practical Tools & Guides**
 Operational frameworks, checklists, and interactive scorecards you can run against your own initiative.
