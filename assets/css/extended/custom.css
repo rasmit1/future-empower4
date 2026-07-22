@@ -117,7 +117,7 @@ body {
 }
 
 .home-info .entry-header h1 {
-    font-size: clamp(1rem, 2vw, 2.2rem);
+    font-size: clamp(1rem, 2vw, 2.0rem);
     letter-spacing: -0.045em;
     color: var(--fe-charcoal);
     margin-bottom: 1rem;

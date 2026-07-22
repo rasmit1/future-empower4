@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Scorecard on Future Empowered</title>
+    <link>http://localhost:1313/tags/scorecard/</link>
+    <description>Recent content in Scorecard on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scorecard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 15-Minute AI Fix Viability Scorecard</title>
+      <link>http://localhost:1313/tools/ai-fix-viability-scorecard/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai-fix-viability-scorecard/</guid>
+      <description>Before approving budget or developer time to fix a failing AI model, score the proposed solution across four operational dimensions.</description>
+    </item>
+  </channel>
+</rss>

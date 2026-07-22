@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Playbooks on Future Empowered</title>
+    <link>http://localhost:54339/playbooks/</link>
+    <description>Recent content in Playbooks on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:54339/playbooks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Product Lifecycle</title>
+      <link>http://localhost:54339/playbooks/ai-product-lifecycle/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54339/playbooks/ai-product-lifecycle/</guid>
+      <description>A comprehensive high-level framework for navigating AI deployment safely and strategically.</description>
+    </item>
+    <item>
+      <title>Integration or New Product Stream</title>
+      <link>http://localhost:54339/playbooks/integartion-or-new-stream/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54339/playbooks/integartion-or-new-stream/</guid>
+      <description>The fork in the road. Do we embed AI into existing workstreams or create an entirely new AI-powered product stream? This decision shapes everything that follows.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Diagnostics on Future Empowered</title>
+    <link>http://localhost:1313/tags/ai-diagnostics/</link>
+    <description>Recent content in AI Diagnostics on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-diagnostics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 10-Minute AI Problem Scoping Checklist</title>
+      <link>http://localhost:1313/tools/hugo_tools-problem-scoping-checklist/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/hugo_tools-problem-scoping-checklist/</guid>
+      <description>Before you diagnose anything, map the full landscape of the problem. Run this checklist before touching a root-cause analysis.</description>
+    </item>
+    <item>
+      <title>The 5 Whys Root Cause Drill</title>
+      <link>http://localhost:1313/tools/hugo_tools-five-whys-drill/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/hugo_tools-five-whys-drill/</guid>
+      <description>A fillable template to find the true root cause of an AI model issue — before recommending a fix. Most teams stop at Why 2. The real cause is almost always at Why 4 or 5.</description>
+    </item>
+    <item>
+      <title>The 15-Minute AI Fix Viability Scorecard</title>
+      <link>http://localhost:1313/tools/ai-fix-viability-scorecard/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai-fix-viability-scorecard/</guid>
+      <description>Before approving budget or developer time to fix a failing AI model, score the proposed solution across four operational dimensions.</description>
+    </item>
+    <item>
+      <title>The AI Model Diagnostic Framework</title>
+      <link>http://localhost:1313/guides/ai-model-diagnostic-framework/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/ai-model-diagnostic-framework/</guid>
+      <description>A three-layer sequential diagnostic process for AI model performance issues. Diagnose before you retrain.</description>
+    </item>
+    <item>
+      <title>Stop Retraining. Start Diagnosing.</title>
+      <link>http://localhost:1313/insights/hugo_insights-stop-retraining/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-stop-retraining/</guid>
+      <description>In enterprise AI, the model is rarely the problem — the system around it almost always is. A real case study in diagnosing three root causes hiding behind what looked like one model failure.</description>
+    </item>
+  </channel>
+</rss>

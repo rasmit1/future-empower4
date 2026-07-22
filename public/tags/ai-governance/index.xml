@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Governance on Future Empowered</title>
+    <link>http://localhost:1313/tags/ai-governance/</link>
+    <description>Recent content in AI Governance on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2026 08:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The False-Failure Framework: Diagnosing AI Operational Friction</title>
+      <link>http://localhost:1313/tools/false-failure-framework/</link>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tools/false-failure-framework/</guid>
+      <description>Before you retrain a failing model, map its operational blast radius. The most expensive fix in enterprise AI is solving the wrong problem.</description>
+    </item>
+    <item>
+      <title>The 15-Minute AI Fix Viability Scorecard</title>
+      <link>http://localhost:1313/tools/ai-fix-viability-scorecard/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai-fix-viability-scorecard/</guid>
+      <description>Before approving budget or developer time to fix a failing AI model, score the proposed solution across four operational dimensions.</description>
+    </item>
+    <item>
+      <title>The AI Model Diagnostic Framework</title>
+      <link>http://localhost:1313/guides/ai-model-diagnostic-framework/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/ai-model-diagnostic-framework/</guid>
+      <description>A three-layer sequential diagnostic process for AI model performance issues. Diagnose before you retrain.</description>
+    </item>
+    <item>
+      <title>Stop Retraining. Start Diagnosing.</title>
+      <link>http://localhost:1313/insights/hugo_insights-stop-retraining/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-stop-retraining/</guid>
+      <description>In enterprise AI, the model is rarely the problem — the system around it almost always is. A real case study in diagnosing three root causes hiding behind what looked like one model failure.</description>
+    </item>
+    <item>
+      <title>AI Is Already Here. Let&#39;s Do It Right.</title>
+      <link>http://localhost:1313/insights/hugo_insights-ai-already-here/</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-ai-already-here/</guid>
+      <description>You&amp;#39;re not choosing whether AI becomes part of your organization. You&amp;#39;re choosing how intentionally and how well. On the real cost of rework, and the three things worth knowing before day one.</description>
+    </item>
+    <item>
+      <title>The AI Investment Strategy</title>
+      <link>http://localhost:1313/insights/hugo_insights-ai-investment-strategy/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-ai-investment-strategy/</guid>
+      <description>Most organizations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it&amp;#39;s the operating model, the people, and the governance.</description>
+    </item>
+    <item>
+      <title>AI Risk Assessment Tool</title>
+      <link>http://localhost:1313/tools/ai_risk_assessment_tool/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai_risk_assessment_tool/</guid>
+      <description>Answer 8 questions about your AI deployment and get an instant risk tier — High, Medium, or Low — with specific actions to take. Takes 3 minutes. No theory. Just your tier and what to do next.</description>
+    </item>
+  </channel>
+</rss>

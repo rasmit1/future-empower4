@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Futuristic Transformation on Future Empowered</title>
+    <link>http://localhost:1313/tags/futuristic-transformation/</link>
+    <description>Recent content in Futuristic Transformation on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/futuristic-transformation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Flavor, Same Recipe: AI Transformation</title>
+      <link>http://localhost:1313/insights/hugo_insights-new-flavor-same-recipe/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-new-flavor-same-recipe/</guid>
+      <description>The challenges haven&amp;#39;t changed. Only the technology has. If you&amp;#39;ve led any transformation before, you already know more about AI adoption than you think.</description>
+    </item>
+    <item>
+      <title>AI Is Already Here. Let&#39;s Do It Right.</title>
+      <link>http://localhost:1313/insights/hugo_insights-ai-already-here/</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-ai-already-here/</guid>
+      <description>You&amp;#39;re not choosing whether AI becomes part of your organization. You&amp;#39;re choosing how intentionally and how well. On the real cost of rework, and the three things worth knowing before day one.</description>
+    </item>
+    <item>
+      <title>The AI Investment Strategy</title>
+      <link>http://localhost:1313/insights/hugo_insights-ai-investment-strategy/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-ai-investment-strategy/</guid>
+      <description>Most organizations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it&amp;#39;s the operating model, the people, and the governance.</description>
+    </item>
+  </channel>
+</rss>

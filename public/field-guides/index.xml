@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Field Guides on Future Empowered</title>
+    <link>http://localhost:54339/field-guides/</link>
+    <description>Recent content in Field Guides on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:54339/field-guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Architectural Crossroad: Integrating vs. Segregating New Technology Solutions</title>
+      <link>http://localhost:54339/field-guides/integrate-or-new-stream-quick-decision-/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54339/field-guides/integrate-or-new-stream-quick-decision-/</guid>
+      <description>A high-level strategic framework for technology leaders evaluating whether to embed new innovations or build isolated product streams.</description>
+    </item>
+    <item>
+      <title>The Systems Lab: Executable Strategy Tools</title>
+      <link>http://localhost:54339/field-guides/buildbuyborrow/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54339/field-guides/buildbuyborrow/</guid>
+      <description>Zero-fluff decision engines, interactive scoring grids, and deployment roadmaps for modern technical founders.</description>
+    </item>
+    <item>
+      <title>The AI Model Diagnostic Framework</title>
+      <link>http://localhost:54339/field-guides/ai-model-diagnostic-framework/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54339/field-guides/ai-model-diagnostic-framework/</guid>
+      <description>A three-layer sequential diagnostic process for AI model performance issues. Diagnose before you retrain.</description>
+    </item>
+  </channel>
+</rss>

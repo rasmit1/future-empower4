@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Change Management on Future Empowered</title>
+    <link>http://localhost:1313/tags/change-management/</link>
+    <description>Recent content in Change Management on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/change-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Flavor, Same Recipe: AI Transformation</title>
+      <link>http://localhost:1313/insights/hugo_insights-new-flavor-same-recipe/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-new-flavor-same-recipe/</guid>
+      <description>The challenges haven&amp;#39;t changed. Only the technology has. If you&amp;#39;ve led any transformation before, you already know more about AI adoption than you think.</description>
+    </item>
+  </channel>
+</rss>

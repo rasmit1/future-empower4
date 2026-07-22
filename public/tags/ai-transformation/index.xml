@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Transformation on Future Empowered</title>
+    <link>http://localhost:1313/tags/ai-transformation/</link>
+    <description>Recent content in AI Transformation on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-transformation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The False-Failure Framework: Diagnosing AI Operational Friction</title>
+      <link>http://localhost:1313/tools/false-failure-framework/</link>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tools/false-failure-framework/</guid>
+      <description>Before you retrain a failing model, map its operational blast radius. The most expensive fix in enterprise AI is solving the wrong problem.</description>
+    </item>
+    <item>
+      <title>The 10-Minute AI Problem Scoping Checklist</title>
+      <link>http://localhost:1313/tools/hugo_tools-problem-scoping-checklist/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/hugo_tools-problem-scoping-checklist/</guid>
+      <description>Before you diagnose anything, map the full landscape of the problem. Run this checklist before touching a root-cause analysis.</description>
+    </item>
+    <item>
+      <title>The 5 Whys Root Cause Drill</title>
+      <link>http://localhost:1313/tools/hugo_tools-five-whys-drill/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/hugo_tools-five-whys-drill/</guid>
+      <description>A fillable template to find the true root cause of an AI model issue — before recommending a fix. Most teams stop at Why 2. The real cause is almost always at Why 4 or 5.</description>
+    </item>
+    <item>
+      <title>New Flavor, Same Recipe: AI Transformation</title>
+      <link>http://localhost:1313/insights/hugo_insights-new-flavor-same-recipe/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-new-flavor-same-recipe/</guid>
+      <description>The challenges haven&amp;#39;t changed. Only the technology has. If you&amp;#39;ve led any transformation before, you already know more about AI adoption than you think.</description>
+    </item>
+    <item>
+      <title>Stop Retraining. Start Diagnosing.</title>
+      <link>http://localhost:1313/insights/hugo_insights-stop-retraining/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-stop-retraining/</guid>
+      <description>In enterprise AI, the model is rarely the problem — the system around it almost always is. A real case study in diagnosing three root causes hiding behind what looked like one model failure.</description>
+    </item>
+    <item>
+      <title>AI Is Already Here. Let&#39;s Do It Right.</title>
+      <link>http://localhost:1313/insights/hugo_insights-ai-already-here/</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-ai-already-here/</guid>
+      <description>You&amp;#39;re not choosing whether AI becomes part of your organization. You&amp;#39;re choosing how intentionally and how well. On the real cost of rework, and the three things worth knowing before day one.</description>
+    </item>
+    <item>
+      <title>The AI Investment Strategy</title>
+      <link>http://localhost:1313/insights/hugo_insights-ai-investment-strategy/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-ai-investment-strategy/</guid>
+      <description>Most organizations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it&amp;#39;s the operating model, the people, and the governance.</description>
+    </item>
+    <item>
+      <title>Integration or New Product Stream</title>
+      <link>http://localhost:1313/guides/integartion-or-new-stream/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/integartion-or-new-stream/</guid>
+      <description>The fork in the road. Do we embed AI into existing workstreams or create an entirely new AI-powered product stream? This decision shapes everything that follows.</description>
+    </item>
+  </channel>
+</rss>

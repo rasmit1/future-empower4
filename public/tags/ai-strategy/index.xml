@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Strategy on Future Empowered</title>
+    <link>http://localhost:1313/tags/ai-strategy/</link>
+    <description>Recent content in AI Strategy on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-strategy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The False-Failure Framework: Diagnosing AI Operational Friction</title>
+      <link>http://localhost:1313/tools/false-failure-framework/</link>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tools/false-failure-framework/</guid>
+      <description>Before you retrain a failing model, map its operational blast radius. The most expensive fix in enterprise AI is solving the wrong problem.</description>
+    </item>
+    <item>
+      <title>The Architectural Crossroad: Integrating vs. Segregating New Technology Solutions</title>
+      <link>http://localhost:1313/guides/integrate-or-new-stream-quick-decision-/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/integrate-or-new-stream-quick-decision-/</guid>
+      <description>A high-level strategic framework for technology leaders evaluating whether to embed new innovations or build isolated product streams.</description>
+    </item>
+    <item>
+      <title>Embedding vs. Creating: The 5 Strategic Pillars of AI Deployment Architecture</title>
+      <link>http://localhost:1313/insights/embedding-vs-creating/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/embedding-vs-creating/</guid>
+      <description>Before committing capital to an AI initiative, executives must evaluate five core pillars to decide between embedding it into legacy workflows or launching a new product stream.</description>
+    </item>
+    <item>
+      <title>The Executive AI Deployment Matrix</title>
+      <link>http://localhost:1313/tools/integration-decision-tool/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/integration-decision-tool/</guid>
+      <description>A strategic 12-question scorecard to help technology leaders decide whether to integrate AI into legacy systems or launch a new product stream.</description>
+    </item>
+    <item>
+      <title>AI Risk Assessment Tool</title>
+      <link>http://localhost:1313/tools/ai_risk_assessment_tool/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai_risk_assessment_tool/</guid>
+      <description>Answer 8 questions about your AI deployment and get an instant risk tier — High, Medium, or Low — with specific actions to take. Takes 3 minutes. No theory. Just your tier and what to do next.</description>
+    </item>
+    <item>
+      <title>Integration or New Product Stream</title>
+      <link>http://localhost:1313/guides/integartion-or-new-stream/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/integartion-or-new-stream/</guid>
+      <description>The fork in the road. Do we embed AI into existing workstreams or create an entirely new AI-powered product stream? This decision shapes everything that follows.</description>
+    </item>
+  </channel>
+</rss>

@@ -237,4 +237,4 @@ Apply all four dimensions to your proposed fix before recommending it.
 
 ---
 
-*Framework by Future Empowered. For questions or licensing, visit [futureempowered.com](https://futureempowered.com).*
+*Framework by Future Empowered. 

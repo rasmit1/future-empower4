@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Financial Services on Future Empowered</title>
+    <link>http://localhost:1313/tags/financial-services/</link>
+    <description>Recent content in Financial Services on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2026 08:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/financial-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The False-Failure Framework: Diagnosing AI Operational Friction</title>
+      <link>http://localhost:1313/tools/false-failure-framework/</link>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tools/false-failure-framework/</guid>
+      <description>Before you retrain a failing model, map its operational blast radius. The most expensive fix in enterprise AI is solving the wrong problem.</description>
+    </item>
+    <item>
+      <title>Stop Retraining. Start Diagnosing.</title>
+      <link>http://localhost:1313/insights/hugo_insights-stop-retraining/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-stop-retraining/</guid>
+      <description>In enterprise AI, the model is rarely the problem — the system around it almost always is. A real case study in diagnosing three root causes hiding behind what looked like one model failure.</description>
+    </item>
+    <item>
+      <title>AI Risk Assessment Tool</title>
+      <link>http://localhost:1313/tools/ai_risk_assessment_tool/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai_risk_assessment_tool/</guid>
+      <description>Answer 8 questions about your AI deployment and get an instant risk tier — High, Medium, or Low — with specific actions to take. Takes 3 minutes. No theory. Just your tier and what to do next.</description>
+    </item>
+  </channel>
+</rss>

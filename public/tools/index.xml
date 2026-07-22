@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tools on Future Empowered</title>
+    <link>http://localhost:1313/tools/</link>
+    <description>Recent content in Tools on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The False-Failure Framework: Diagnosing AI Operational Friction</title>
+      <link>http://localhost:1313/tools/false-failure-framework/</link>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tools/false-failure-framework/</guid>
+      <description>Before you retrain a failing model, map its operational blast radius. The most expensive fix in enterprise AI is solving the wrong problem.</description>
+    </item>
+    <item>
+      <title>The 10-Minute AI Problem Scoping Checklist</title>
+      <link>http://localhost:1313/tools/hugo_tools-problem-scoping-checklist/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/hugo_tools-problem-scoping-checklist/</guid>
+      <description>Before you diagnose anything, map the full landscape of the problem. Run this checklist before touching a root-cause analysis.</description>
+    </item>
+    <item>
+      <title>The 5 Whys Root Cause Drill</title>
+      <link>http://localhost:1313/tools/hugo_tools-five-whys-drill/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/hugo_tools-five-whys-drill/</guid>
+      <description>A fillable template to find the true root cause of an AI model issue — before recommending a fix. Most teams stop at Why 2. The real cause is almost always at Why 4 or 5.</description>
+    </item>
+    <item>
+      <title>The Build, Buy, or Borrow Decision Matrix</title>
+      <link>http://localhost:1313/tools/hugo_tools-build-buy-borrow-matrix-copy/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/hugo_tools-build-buy-borrow-matrix-copy/</guid>
+      <description>A scored framework for deciding whether to build, buy, or borrow an AI capability — based on which risk you&amp;#39;re actually willing to own: control, speed, or dependency.</description>
+    </item>
+    <item>
+      <title>The Executive AI Deployment Matrix</title>
+      <link>http://localhost:1313/tools/integration-decision-tool/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/integration-decision-tool/</guid>
+      <description>A strategic 12-question scorecard to help technology leaders decide whether to integrate AI into legacy systems or launch a new product stream.</description>
+    </item>
+    <item>
+      <title>The 15-Minute AI Fix Viability Scorecard</title>
+      <link>http://localhost:1313/tools/ai-fix-viability-scorecard/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai-fix-viability-scorecard/</guid>
+      <description>Before approving budget or developer time to fix a failing AI model, score the proposed solution across four operational dimensions.</description>
+    </item>
+    <item>
+      <title>AI Risk Assessment Tool</title>
+      <link>http://localhost:1313/tools/ai_risk_assessment_tool/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai_risk_assessment_tool/</guid>
+      <description>Answer 8 questions about your AI deployment and get an instant risk tier — High, Medium, or Low — with specific actions to take. Takes 3 minutes. No theory. Just your tier and what to do next.</description>
+    </item>
+  </channel>
+</rss>

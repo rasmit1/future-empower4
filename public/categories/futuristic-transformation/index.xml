@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Futuristic Transformation on Future Empowered</title>
+    <link>http://localhost:1313/categories/futuristic-transformation/</link>
+    <description>Recent content in Futuristic Transformation on Future Empowered</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2026 08:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/futuristic-transformation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The False-Failure Framework: Diagnosing AI Operational Friction</title>
+      <link>http://localhost:1313/tools/false-failure-framework/</link>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tools/false-failure-framework/</guid>
+      <description>Before you retrain a failing model, map its operational blast radius. The most expensive fix in enterprise AI is solving the wrong problem.</description>
+    </item>
+    <item>
+      <title>The 15-Minute AI Fix Viability Scorecard</title>
+      <link>http://localhost:1313/tools/ai-fix-viability-scorecard/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/ai-fix-viability-scorecard/</guid>
+      <description>Before approving budget or developer time to fix a failing AI model, score the proposed solution across four operational dimensions.</description>
+    </item>
+    <item>
+      <title>The AI Model Diagnostic Framework</title>
+      <link>http://localhost:1313/guides/ai-model-diagnostic-framework/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/ai-model-diagnostic-framework/</guid>
+      <description>A three-layer sequential diagnostic process for AI model performance issues. Diagnose before you retrain.</description>
+    </item>
+    <item>
+      <title>Stop Retraining. Start Diagnosing.</title>
+      <link>http://localhost:1313/insights/hugo_insights-stop-retraining/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/insights/hugo_insights-stop-retraining/</guid>
+      <description>In enterprise AI, the model is rarely the problem — the system around it almost always is. A real case study in diagnosing three root causes hiding behind what looked like one model failure.</description>
+    </item>
+  </channel>
+</rss>
