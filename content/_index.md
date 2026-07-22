@@ -9,7 +9,7 @@ draft: false
 
 Organizations bring me in as an advisor, an executive who owns delivery end to end, or an embedded problem-solver — whichever the situation actually calls for.
 
-**[Explore Engagement Models](/services/)** · **[Email me](mailto:futureempoweredenabler@gmail.com)**
+**[Explore Engagement Models](services/)** · **[Email me](mailto:futureempoweredenabler@gmail.com)**
 
 ## Start Here
 
