@@ -51,5 +51,3 @@ Across AI initiatives, the decision rarely comes down to technology capability. 
 None of these paths is inherently better. Each one is a response to a different type of risk: loss of control, delay in value, or dependency on external providers.
 
 In practice, I use a decision matrix that weighs factors like security, ownership, innovation speed, and long-term cost — but the final choice almost always comes down to which risk matters most: loss of control, delay, or dependency.
-
-You can find the [Build, Buy, or Borrow Decision Matrix](/tools/build-buy-borrow-matrix/) and examples for how to use it in Tools.
