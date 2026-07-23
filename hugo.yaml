@@ -1,6 +1,6 @@
 
-baseURL: "https://www.futureempowered.com/"
 #baseURL: "https://www.futureempowered.com/"
+baseURL: "https://www.futureempowered.com/"
 languageCode: "en-us"
 title: "Future Empowered"
 theme: "PaperMod"
@@ -14,7 +14,7 @@ pygmentsUseClasses: true
 minify:
   disableXML: true
 
-relativeURLs: false
+relativeURLs: true
 
 pagination:
   pagerSize: 10
