@@ -1,7 +1,7 @@
 ---
 title: "The 10-Minute AI Problem Scoping Checklist"
 description: "Before you diagnose anything, map the full landscape of the problem. Run this checklist before touching a root-cause analysis."
-date: 2026-07-18
+date: 2026-07-22
 draft: false
 categories: ["Tools"]
 tags: ["AI Diagnostics", "Problem Scoping", "AI Transformation", "Enterprise AI"]
