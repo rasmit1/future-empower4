@@ -35,4 +35,4 @@ A 15+ year track record of enterprise execution across global banks and fintech 
 
 A complimentary 30-minute conversation is the fastest way to see if there's an operational fit for your current challenges.
 
-**[Email Me to Get Started](mailto:futureempoweredenabler@gmail.com)**
+**[Email Me to Get Started](mailto:futureempowered6@gmail.com)**
