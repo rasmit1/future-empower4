@@ -7,7 +7,7 @@ tags: ["AI Product Lifecycle", "AI Strategy", "Integration", "Product Management
 series: "AI Product Lifecycle Playbook"
 series_order: 5
 type: "playbook"
-draft: false
+draft: true
 ---
 
 > "The integration decision is not a technology decision. It is a change management decision wearing a technology costume."
