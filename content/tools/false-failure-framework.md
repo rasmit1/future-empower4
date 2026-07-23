@@ -53,7 +53,3 @@ Do not run a root-cause analysis on an unverified symptom. Use this compressed, 
 * **[ ] Confidence Level:** Does the model surface low confidence scores along with the bad output, or is it masking errors with authoritative language?
 
 ---
-
-### Next Step in the Toolkit:
-### * [Proceed to Layer 2: The 5-Whys Friction Drill ->](/### 5-whys-ai-diagnostics/)
-### * [Jump Straight to Tool 3: The 15-Minute Executive Scorecard ->](/false-failure-scorecard/)

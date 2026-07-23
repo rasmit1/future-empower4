@@ -16,4 +16,4 @@ Growth brings more initiatives, more priorities, more change — and even the st
 - **Director, Technical Delivery & Digital Transformation** — mid-size fintech lender. Owned delivery for loan approval, fraud, and AML systems end to end; automation and UX redesigns boosted approval speed. Managed cross-functional delivery teams of engineers and project managers.
 
 ---
-*Want to know how I can help? [Work With Me](services/)*
+*Want to know how I can help? [Work With Me](/services/)*
