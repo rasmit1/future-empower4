@@ -29,7 +29,7 @@ layout: "services"
 
 A complimentary 30-minute conversation is the fastest way to see if this is the right fit.
 
-**[Email me](mailto:futureempoweredenabler@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/mittalrashmi)**
+**[Email me](mailto:futureempowered6@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/mittalrashmi)**
 
 ---
 
