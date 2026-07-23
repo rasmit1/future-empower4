@@ -2,7 +2,7 @@
 ---
 title: "The False-Failure Framework: Diagnosing AI Operational Friction"
 date: 2026-06-15T08:00:00-04:00
-draft: false
+draft: true
 description: "Before you retrain a failing model, map its operational blast radius. The most expensive fix in enterprise AI is solving the wrong problem."
 
 Lead: "Most organizations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it's the operating model, the people, and the governance." 
