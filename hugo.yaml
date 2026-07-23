@@ -4,6 +4,7 @@ baseURL: "https://www.futureempowered.com/"
 languageCode: "en-us"
 title: "Future Empowered"
 theme: "PaperMod"
+googleAnalytics: "G-QWNDBJ9L2F"
 
 enableRobotsTXT: true
 buildDrafts: false
