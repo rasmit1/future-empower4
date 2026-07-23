@@ -6,6 +6,7 @@ draft: false
 categories: ["Tools"]
 tags: ["AI Diagnostics", "Problem Scoping", "AI Transformation", "Enterprise AI"]
 author: "Rashmi Mittal"
+toc: false
 ---
 
 Before diagnosing anything, build a complete picture of the situation. Skipping this step means you risk running a root-cause analysis on the wrong symptom entirely.
@@ -67,4 +68,4 @@ What pattern do timing and location suggest: _________________________________
 **If you identified more than one distinct symptom** — treat each one as a separate problem. Do not diagnose them together; run a root-cause analysis on each symptom individually.
 
 ---
-*Ready to find the root cause? Continue with [The 5 Whys Root Cause Drill](/tools/five-whys-drill/), or read the full [AI Model Diagnostic Framework](/guides/ai-model-diagnostic-framework/) for the complete method.*
+*Ready to find the root cause? Continue with [The 5 Whys Root Cause Drill](tools/five-whys-drill/), or read the full [AI Model Diagnostic Framework](/guides/ai-model-diagnostic-framework/) for the complete method.*

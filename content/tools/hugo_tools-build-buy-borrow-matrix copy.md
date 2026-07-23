@@ -61,4 +61,4 @@ Velocity Score: ___ / 10
 Whatever your scores say, the decision ultimately comes down to one question: **which risk are you choosing to own** — loss of control, delay in value, or dependency on someone else's roadmap? There's no universally right answer, only the one that matches what your organization can actually tolerate right now.
 
 ---
-*For the full thinking behind this framework, read [Build, Buy, or Borrow: The Wrong Question](/insights/build-buy-borrow/).*
+### *For the full thinking behind this framework, read [Build, Buy, or Borrow: The Wrong Question](/insights/build-buy-borrow/).*
