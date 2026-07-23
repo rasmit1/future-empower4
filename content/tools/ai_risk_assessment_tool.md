@@ -252,7 +252,3 @@ This AI system has low risk characteristics. Standard controls and light-touch g
 **This is a starting point not a substitute for professional advice** — In regulated industries — financial services, healthcare, insurance — always involve your legal and compliance teams in the governance design for any AI system regardless of tier.
 
 ---
-
-*Rashmi Mittal is an AI Transformation & Product Leader with 15+ years in financial services. He helps organisations move AI from pilot to production — unblocking the technical, business, and human barriers that stop AI programmes from scaling. 🌐 [futureempowered.com](https://futureempowered.com)*
-
-`#AIGovernance #RiskAssessment #AITransformation #EnterpriseAI #AIStrategy #FinancialServices #FutureEmpowered`
