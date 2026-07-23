@@ -150,3 +150,10 @@ markup:
 mainSections:
   - blog
   - docs
+
+
+services:
+  disqus:
+    shortname: www-futureempowered-com
+  googleAnalytics:
+    id: "G-QWNDBJ9L2F" 
