@@ -5,7 +5,6 @@ ShowReadingTime: false
 ShowToc: false
 ---
 
-testing
 (/images/headshot.png)
 
 Growth brings more initiatives, more priorities, more change — and even the strongest organizations reach a point where balancing speed, change, and value takes deliberate leadership, not just momentum. That's what I bring: the range to make the call, clear the blockers, and hold delivery accountable across product strategy, technical delivery, and the control functions too often treated as obstacles instead of partners — range rare enough that I've built my own practice around it. But if I'm honest, the thing I'm known for above the rest is this: I design organizations built to execute — upskilling people through real mentoring and teaching, and standing up functions that keep running and improving.
