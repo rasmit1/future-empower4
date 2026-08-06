@@ -9,25 +9,29 @@ draft: false
 
 Organizations bring me in as an advisor, an executive who owns delivery end to end, or an embedded problem-solver — whichever the situation actually calls for.
 
+<!-- Suggested: a simple portrait photo here, right-aligned next to the headline. Optional — skip if faceless/understated positioning is intentional; use the pull-quote treatment below instead in that case. -->
 
-## Start Here
+---
 
-Select a section below to explore how I work, what I've learned, and the tools I've built along the way.
+## Proof, not just a pitch
 
-**[Review Services & Engagement Models](services/)**
-If your organization is navigating complex cloud, data, or AI transformations and needs an executive to clear bottlenecks, align control partners, and hold delivery accountable.
+> **A platform stalled for three years. Relaunched in a single quarter.**
+> 15+ years leading enterprise execution across global banks and fintech lenders — including the operating model for a global bank's Asset & Wealth Management transformation.
 
-**[Read Enterprise Insights](insights)**
-Deep dives on technical architecture, product strategy, and organizational design for highly regulated sectors.
+**[Read the full story →](/about/)**
 
-**[Access Practical Tools & Guides](resources)**
-Operational frameworks, checklists, and interactive scorecards you can run against your own initiative.
+---
 
-**[Review My Background & Track Record](about/)**
-A 15+ year track record of enterprise execution across global banks and fintech lenders — including a platform stalled for three years, relaunched in a single quarter.
+## Book a 30-Minute Conversation
 
-## Get in Touch
+The fastest way to find out if there's an operational fit for your current challenge.
 
-A complimentary 30-minute conversation is the fastest way to see if there's an operational fit for your current challenges.
+**[Book a Conversation →](mailto:futureempowered6@gmail.com)**
 
-**[Email Me to Get Started](mailto:futureempowered6@gmail.com)**
+---
+
+## Explore More
+
+- **[Services & Engagement Models](/services/)** — advisor, delivery owner, or embedded problem-solver, depending on what the situation calls for.
+- **[Enterprise Insights](/insights/)** — deep dives on architecture, product strategy, and organizational design for regulated sectors.
+- **[Practical Tools & Guides](/resources/)** — operational frameworks and interactive scorecards you can run against your own initiative today.
