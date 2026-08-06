@@ -26,7 +26,7 @@ I'm Rashmi Mittal. I provide executive leadership for enterprise delivery & tran
 
 The fastest way to find out if there's an operational fit for your current challenge.
 
-**[Book a Conversation →](mailto:futureempowered6@gmail.com)** **[LinkedIn](https://www.linkedin.com/in/mittalrashmi)**
+**[Book a Conversation](mailto:futureempowered6@gmail.com)**   **[LinkedIn](https://www.linkedin.com/in/mittalrashmi)**
 
 ---
 
