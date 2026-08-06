@@ -7,7 +7,7 @@ draft: false
 
 # Executive Leadership for Enterprise Delivery & Transformation
 
-I'm Rashmi Mittal. I provide executive leadership for enterprise delivery & transformation — Organizations bring me in as an advisor, an executive who owns delivery end to end, or an embedded problem-solver — whichever the situation actually calls for.
+I am Rashmi Mittal, Trusted Executive partner. Organizations bring me in as an advisor, an executive who owns delivery end to end, or an embedded problem-solver — whichever the situation actually calls for.
 
 <!-- Suggested: a simple portrait photo here, right-aligned next to the headline. Optional — skip if faceless/understated positioning is intentional; use the pull-quote treatment below instead in that case. -->
 
@@ -26,7 +26,7 @@ I'm Rashmi Mittal. I provide executive leadership for enterprise delivery & tran
 
 The fastest way to find out if there's an operational fit for your current challenge.
 
-**[Book a Conversation](mailto:futureempowered6@gmail.com)**   **[LinkedIn](https://www.linkedin.com/in/mittalrashmi)**
+**[Book a Conversation](mailto:futureempowered6@gmail.com)**         **[LinkedIn](https://www.linkedin.com/in/mittalrashmi)**
 
 ---
 
