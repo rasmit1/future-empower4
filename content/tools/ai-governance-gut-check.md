@@ -23,7 +23,6 @@ meta-viewport: width=device-width, initial-scale=1, shrink-to-fit=no
 title: The AI Governance Gut Check | Future Empowered
 ---
 
-
 ### A C-Level View
 
 If you're reading this, some part of you already senses your AI governance isn't quite where it should be. That's not a red flag — it's the normal state for almost every organization moving at this pace. This tool won't tell you that you're failing. It'll tell you specifically where the gaps are, so you know exactly what to fix first, instead of carrying a vague unease about it.
