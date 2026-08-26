@@ -6,6 +6,7 @@ draft: false
 categories: ["Insights"]
 tags: ["Futuristic Transformation", "Business Strategy", "AI Transformation", "AI Governance", "Enterprise AI"]
 author: "Rashmi Mittal"
+disableShare: true
 ---
 
 > "AI tools don't create value. Organizations that are ready to use them do."

@@ -6,6 +6,7 @@ draft: false
 categories: ["Insights"]
 tags: ["AI Strategy", "AI Transformation", "Technology Governance", "Enterprise AI"]
 author: "Rashmi Mittal"
+disableShare: true
 ---
 
 What's the winning AI strategy: build, buy, or borrow?

@@ -6,6 +6,7 @@ draft: false
 categories: ["Insights"]
 tags: ["Futuristic Transformation", "Organization Science", "AI Transformation", "Change Management", "Enterprise AI"]
 author: "Rashmi Mittal"
+disableShare: true
 ---
 
 > "The challenges haven't changed. Only the technology has. Your experience is more relevant than you think."

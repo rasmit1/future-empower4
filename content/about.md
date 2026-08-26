@@ -3,6 +3,7 @@ title: "About Me: Rashmi Mittal"
 description: "15+ years leading enterprise transformation, product strategy, and technical delivery across cloud, data, and AI initiatives in the financial sector."
 ShowReadingTime: false
 ShowToc: false
+disableShare: true
 ---
 
 

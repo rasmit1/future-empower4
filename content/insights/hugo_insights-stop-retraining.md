@@ -6,6 +6,7 @@ draft: false
 categories: ["Futuristic Transformation", "Organization Science"]
 tags: ["AI Diagnostics", "AI Governance", "Model Performance", "5 Whys", "AI Transformation", "Enterprise AI", "Financial Services"]
 author: "Rashmi Mittal"
+disableShare: true
 ---
 
 > "In enterprise AI the model is rarely the problem. The system around it almost always is."

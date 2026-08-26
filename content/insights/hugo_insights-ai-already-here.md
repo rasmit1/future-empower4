@@ -6,6 +6,7 @@ draft: false
 categories: ["Insights"]
 tags: ["Futuristic Transformation", "Organization Science", "AI Transformation", "AI Governance", "Enterprise AI"]
 author: "Rashmi Mittal"
+disableShare: true
 ---
 
 > "You're not choosing whether AI becomes part of your organization. You're choosing how intentionally and how well."
