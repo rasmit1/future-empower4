@@ -20,7 +20,7 @@ meta-twitter:card: summary
 meta-twitter:description: When "AI transformation" was the actual multifold job. A real, anonymized case study in entangled data, infrastructure, and AI initiatives, resolved through embedded leadership alignment and governance built in from the start.
 meta-twitter:title: Case Study 1 — When AI Transformation Was the Actual Multifold Job
 meta-viewport: width=device-width, initial-scale=1, shrink-to-fit=no
-title: Case Study Entangled Transformations | Future Empowered
+title: Case Study - Entangled Initiatives | Future Empowered
 disableShare: true
 ---
 
