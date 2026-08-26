@@ -1,0 +1,63 @@
+<svg width="1200" height="1380" viewBox="0 0 1200 1380" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+<desc>Challenges and Impacts & Symptoms flow down into Embedded Partner, which flows into Approach, which flows into Outcomes.</desc>
+
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="#5b5342" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+
+<rect x="0" y="0" width="1200" height="1380" fill="#ffffff"/>
+
+<!-- Challenges box -->
+<rect x="100" y="40" width="470" height="260" rx="16" fill="#dcf2ec" stroke="#1e7a63" stroke-width="1.5"/>
+<text x="140" y="98" font-size="30" font-weight="700" fill="#0f4d3f">Challenges</text>
+<text x="140" y="148" font-size="21" fill="#1e7a63">Cross-initiative dependencies</text>
+<text x="140" y="182" font-size="21" fill="#1e7a63">(data, cloud, infra, tech)</text>
+<text x="140" y="230" font-size="21" fill="#1e7a63">No value justification</text>
+<text x="140" y="262" font-size="21" fill="#1e7a63">Low adoption</text>
+
+<!-- Impacts box -->
+<rect x="620" y="40" width="470" height="260" rx="16" fill="#dcf2ec" stroke="#1e7a63" stroke-width="1.5"/>
+<text x="660" y="98" font-size="30" font-weight="700" fill="#0f4d3f">Impacts &amp; symptoms</text>
+<text x="660" y="148" font-size="21" fill="#1e7a63">Budget misalignment</text>
+<text x="660" y="182" font-size="21" fill="#1e7a63">Slow deliveries</text>
+<text x="660" y="216" font-size="21" fill="#1e7a63">Low productivity</text>
+<text x="660" y="250" font-size="21" fill="#1e7a63">Low user adoption</text>
+
+<!-- Arrows: Challenges & Impacts flow DOWN INTO Embedded Partner -->
+<path d="M335,300 L335,352 L565,352 L565,388" fill="none" stroke="#5b5342" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M855,300 L855,352 L565,352" fill="none" stroke="#5b5342" stroke-width="2"/>
+
+<!-- Embedded Partner box -->
+<rect x="335" y="392" width="460" height="220" rx="16" fill="#efece5" stroke="#8a8577" stroke-width="1.5"/>
+<text x="565" y="440" font-size="28" font-weight="700" fill="#3a382f" text-anchor="middle">Embedded partner</text>
+<text x="565" y="485" font-size="20" fill="#5c584c" text-anchor="middle">Diagnose &amp; design problem solution</text>
+<text x="565" y="517" font-size="20" fill="#5c584c" text-anchor="middle">Align leadership &amp; control partners</text>
+<text x="565" y="549" font-size="20" fill="#5c584c" text-anchor="middle">Value defined &amp; measured</text>
+<text x="565" y="581" font-size="20" fill="#5c584c" text-anchor="middle">Own delivery through completion</text>
+
+<!-- Arrow: Embedded Partner -> Approach -->
+<line x1="565" y1="612" x2="565" y2="668" stroke="#5b5342" stroke-width="2" marker-end="url(#arrow)"/>
+
+<!-- Approach box -->
+<rect x="270" y="672" width="590" height="330" rx="16" fill="#dcf2ec" stroke="#1e7a63" stroke-width="1.5"/>
+<text x="310" y="730" font-size="30" font-weight="700" fill="#0f4d3f" text-anchor="start">Approach</text>
+<text x="310" y="780" font-size="21" fill="#1e7a63">Use-case workshop — AI or not</text>
+<text x="310" y="822" font-size="21" fill="#1e7a63">Control partners early &amp; continuous engagement</text>
+<text x="310" y="864" font-size="21" fill="#1e7a63">Roles redesigned and upskilled</text>
+<text x="310" y="906" font-size="21" fill="#1e7a63">Data readiness, not perfection</text>
+<text x="310" y="948" font-size="21" fill="#1e7a63">Bespoke governance model implemented</text>
+
+<!-- Arrow: Approach -> Outcomes -->
+<line x1="565" y1="1002" x2="565" y2="1058" stroke="#5b5342" stroke-width="2" marker-end="url(#arrow)"/>
+
+<!-- Outcomes box -->
+<rect x="270" y="1062" width="590" height="270" rx="16" fill="#fbe9d1" stroke="#a9660f" stroke-width="1.5"/>
+<text x="310" y="1120" font-size="30" font-weight="700" fill="#7a4a09" text-anchor="start">Outcomes</text>
+<text x="310" y="1168" font-size="21" fill="#9c6118">Budget aligned to goals</text>
+<text x="310" y="1210" font-size="21" fill="#9c6118">Delivery, productivity &amp; adoption up</text>
+<text x="310" y="1252" font-size="21" fill="#9c6118">Governance &amp; data blockers reduced</text>
+<text x="310" y="1294" font-size="21" fill="#9c6118">Silo becomes a product</text>
+
+</svg>
