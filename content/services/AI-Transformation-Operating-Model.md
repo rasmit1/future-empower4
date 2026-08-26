@@ -107,6 +107,6 @@ Assessment, diagnosis, and value tracking run underneath everything, the whole t
 
 ## Proof
 
-One organization was mid-way through a data transformation and a cloud transformation when the AI mandate started — not after, in the middle of both. Same systems, same teams, same clients, different ownership, different definitions of value. The full walkthrough — including the real root cause underneath the stated AI mandate — is in [Case Study 1](/services/case-study-1/).
+One organization was mid-way through a data transformation and a cloud transformation when the AI mandate started — not after, in the middle of both. Same systems, same teams, same clients, different ownership, different definitions of value. The full walkthrough — including the real root cause underneath the stated AI mandate — is in [Case Study : Entangled Initiatives ](/services/case-study-1/).
 
 This model keeps being tested against new, entangled situations as they accumulate — it isn't a one-time deliverable. What's still open: named, self-diagnosable readiness stages a reader could use to place their own organization, and a clearer map of how this applies across advisory, owned delivery, and embedded partnership as distinct engagement shapes.

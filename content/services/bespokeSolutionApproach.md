@@ -40,4 +40,4 @@ Every embedded engagement follows the similar underlying approach, even though t
 
 **Outcomes** — what actually changes as a result, flowing out from the work the partner and the approach produced.
 
-Read the **[Case Study 1](/services/case-study-1/)** that shows exactly what this looks like filled in with a real, specific engagement.
+Read the **[Case Study : Entangled Initiatives ](/services/case-study-1/)** that shows exactly what this looks like filled in with a real, specific engagement.

@@ -23,7 +23,7 @@ See [The Bespoke Solution Approach](/services/bespokesolutionapproach/) for how 
 
 Full breakdown: [The AI Transformation Operating Model](/services/ai-transformation-operating-model/) ·
 
- Proof in practice: [Case Study 1](/services/case-study-1/).
+ Proof in practice: [Case Study : Entangled Initiatives](/services/case-study-1/).
 
 **AI Product Operating Model** — AI Value Realization, Product Model, Product Lifecycle, Product Launch, Program Delivery, Organization Design
 
@@ -32,7 +32,7 @@ Full breakdown: [The AI Transformation Operating Model](/services/ai-transformat
 **Bespoke Solutions** — Unique to your organization, when the challenge doesn't fit neatly into a category above. This is the general shape every embedded engagement follows: 
 [The Bespoke Solution Approach](/services/bespokesolutionapproach/)· 
 
-Applied example: [Case Study 1](/services/case-study-1/).
+Applied example: [Case Study : Entangled Initiatives ](/services/case-study-1/).
 
 ## Get in Touch
 
