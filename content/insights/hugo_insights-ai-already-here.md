@@ -1,5 +1,5 @@
 ---
-title: "AI Is Already Here. Let's Do It Right."
+title: "Enterprise AI Adoption Isn't a Choice. How Well You Do It Is."
 description: "You're not choosing whether AI becomes part of your organization. You're choosing how intentionally and how well. On the real cost of rework, and the three things worth knowing before day one."
 date: 2026-06-06
 draft: false

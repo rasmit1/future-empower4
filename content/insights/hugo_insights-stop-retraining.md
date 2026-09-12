@@ -1,5 +1,5 @@
 ---
-title: "Stop Retraining. Start Diagnosing."
+title: "When Your AI Model Underperforms, the Model Is Rarely the Problem."
 description: "In enterprise AI, the model is rarely the problem — the system around it almost always is. A real case study in diagnosing three root causes hiding behind what looked like one model failure."
 date: 2026-06-07
 draft: false

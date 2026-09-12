@@ -1,5 +1,5 @@
 ---
-title: "Embedding vs. Creating: The 5 Strategic Pillars of AI Deployment Architecture"
+title: "Embed AI in Your Workflows, or Build a Separate Product?"
 date: 2026-06-23
 description: "Before committing capital to an AI initiative, executives must evaluate five core pillars to decide between embedding it into legacy workflows or launching a new product stream."
 category: "Insights"

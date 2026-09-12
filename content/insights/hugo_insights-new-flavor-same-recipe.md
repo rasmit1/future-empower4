@@ -1,5 +1,5 @@
 ---
-title: "New Flavor, Same Recipe: AI Transformation"
+title: "AI Transformation vs Digital Transformation: Same Challenges, One Critical Difference"
 description: "The challenges haven't changed. Only the technology has. If you've led any transformation before, you already know more about AI adoption than you think."
 date: 2026-06-07
 draft: false

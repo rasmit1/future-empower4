@@ -1,5 +1,5 @@
 ---
-title: "The AI Investment Strategy"
+title: "AI Investment Strategy: Tools Don't Create Value, Readiness Does"
 description: "Most organizations are investing in AI but not seeing the returns they expected. The problem is rarely the technology — it's the operating model, the people, and the governance."
 date: 2026-01-06
 draft: false

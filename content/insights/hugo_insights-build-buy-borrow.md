@@ -1,5 +1,5 @@
 ---
-title: "Build, Buy, or Borrow: The Wrong Question"
+title: "Build, Buy, or Borrow AI Is the Wrong Question"
 description: "The real AI strategy question isn't which path wins — it's when to build, when to buy, when to borrow, and which risk you're actually choosing to own."
 date: 2026-06-22
 draft: false

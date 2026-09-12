@@ -1,5 +1,5 @@
 ---
-title: "The Architectural Crossroad: Integrating vs. Segregating New Technology Solutions"
+title: "Should You Integrate AI Into Your Core Systems or Keep It Separate?"
 description: "A framework for evaluating whether to embed a new technology into your existing operational core, or build it as an entirely isolated stream — across six practical dimensions."
 date: 2026-06-24
 draft: false
