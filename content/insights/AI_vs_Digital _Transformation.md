@@ -8,6 +8,8 @@ categories: ["Insights"]
 tags: ["Futuristic Transformation", "Organization Science", "AI Transformation", "Change Management", "Enterprise AI"]
 author: "Rashmi Mittal"
 disableShare: true
+aliases:
+  - /insights/hugo_insights-new-flavor-same-recipe/
 ---
 
 Some of this will feel familiar. The parts that don't are the parts that cost you.
