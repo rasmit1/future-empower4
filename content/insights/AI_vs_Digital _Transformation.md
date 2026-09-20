@@ -1,5 +1,6 @@
 ---
 title: "AI Transformation vs Digital Transformation: Significant Differences"
+slug: "ai-vs-digital-transformation"
 description: "The management challenges repeat. Six things don't — and those are the ones a familiar playbook was never built for."
 date: 2026-06-07
 draft: false
