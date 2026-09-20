@@ -1,6 +1,6 @@
 ---
 title: "AI Transformation vs Digital Transformation: Significant Differences"
-description: "The challenges haven't changed. Only the technology has. If you've led any transformation before, you already know more about AI adoption than you think."
+description: "The management challenges repeat. Six things don't — and those are the ones a familiar playbook was never built for."
 date: 2026-06-07
 draft: false
 categories: ["Insights"]
