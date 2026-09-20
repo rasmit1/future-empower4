@@ -1,5 +1,5 @@
 ---
-title: "AI Transformation vs Digital Transformation: Same Challenges, One Critical Difference"
+title: "AI Transformation vs Digital Transformation: Significant Differences"
 description: "The challenges haven't changed. Only the technology has. If you've led any transformation before, you already know more about AI adoption than you think."
 date: 2026-06-07
 draft: false
@@ -9,87 +9,79 @@ author: "Rashmi Mittal"
 disableShare: true
 ---
 
-> "The challenges haven't changed. Only the technology has. Your experience is more relevant than you think."
+Some of this will feel familiar. The parts that don't are the parts that cost you.
 
-If you've ever led a transformation — any transformation — you already know more about AI adoption than you think.
+Every organization running an AI program has someone in the room saying this is just the next digital transformation. They are partly right, and the part they are right about is the surface. The part they are wrong about is the expensive part.
 
-Agile transformation. Digital transformation. Operating model redesign. New technology adoption. Culture change programs.
+The management challenges do repeat. If you have led a transformation before, you have already handled them — they are covered at the end.
 
-Every single one felt new at the time. Every single one came with the same promise — this will change everything. And every single one ran into the same walls.
+Six things are structurally different. Not everything on this list will apply to every organization, but miss the ones that do and the familiar playbook quietly stops working.
 
-The walls didn't have different names then. They have the same names now.
+1. This one isn't a decision you get to schedule
 
-So before you treat AI transformation as something entirely new, look back at what you've already survived. The insights are there. The data is there. The lessons are there. The question is whether you're using them.
+Agile was a choice. Digital was a choice. Cloud was a choice — expensive and contested, but a choice, with a timeline you controlled.
 
-## The Challenges That Never Change
+AI is already entering your organization whether or not there is a strategy for it. It arrives in the software your teams already use, in what your vendors ship in their next release, in what your competitors put in front of your customers, and in what your own people do with tools they found themselves.
 
-### 01 — Not Knowing What Problem You're Actually Solving
+So the decision in front of you is not whether. It is how deliberately — and how long "we're not ready yet" is allowed to stand in for an answer.
 
-In every transformation I've been part of, the excitement comes first. The business case comes second. Sometimes it doesn't come at all.
+2. It arrives in pockets, not as a program
 
-"This will be miraculous for our business" is not a business case.
+Digital transformation usually arrived as a program. It had a name, a budget line, a roadmap, and someone accountable for the whole thing.
 
-If you don't know the specific problem you're trying to solve, how will you know if you solved it? How will you measure progress? How will you justify the investment when the board asks?
+AI rarely arrives that way. It arrives as tools — bought by different functions at different times, each purchase entirely reasonable on its own. Marketing buys one thing. Operations buys another. A product team runs a pilot. Nobody coordinates them, because nobody was asked to.
 
-I've seen this in agile transformations where teams adopted ceremonies without understanding why. I've seen it in digital transformations where apps got built because competitors had apps. And I'm seeing it now in AI — tools bought, pilots launched, outcomes undefined.
+Some organizations have stood up a properly funded AI program with a named owner. Most have not, and in those, every individual decision can be correct while the business feels nothing change end to end. That is not a failure of any single purchase. It is what happens when capability enters through a dozen doors and nobody connects them into a system.
 
-The fix is the same every time. Start with the problem. Define what solved looks like. Then choose the approach.
+3. The speed mismatch is internal, and it is fast
 
-### 02 — No Short-Term Plan Connected to a Long-Term Vision
+Digital rollouts generally took years. The organization absorbed the change gradually, and the parts that lagged had time to catch up.
 
-Transformations fail in two opposite ways, and both are equally deadly.
+AI can make one step of a workflow dramatically faster within a quarter, while the step next to it runs exactly as it always has. The team now receiving several times the volume at the same headcount becomes the bottleneck through no fault of its own — it was never redesigned to receive what is now arriving.
 
-The first — you plan a massive transformation. Eighteen months of preparation before anything gets deployed. By month six the business has moved on and the momentum is gone.
+This is why organizations report that processing time dropped and service time didn't move. The speed was real. It just had nowhere to go.
 
-The second — you wait for perfect conditions. Clean data. Modern systems. Full alignment. Those conditions never arrive.
+4. The technology is probabilistic, not deterministic
 
-The organizations I've seen succeed do neither. They have a clear long-term vision and a concrete short-term action. Start something small and real this quarter. Keep the bigger picture visible. Let each win build toward it.
+A conventional system does what you specified. When it doesn't, that is a defect, and a defect has a fix.
 
-### 03 — Communication That Starts and Stops
+An AI system produces outputs that vary. It is correct most of the time and wrong in ways nobody enumerated in advance. You cannot fully verify it by checking that it does what the specification says, because what it should do in every case was never fully specifiable.
 
-One town hall is not a communication strategy.
+That changes testing, quality assurance, review, and — the part most organizations reach last — who is accountable when an output is wrong. Governance designed for systems that behave predictably does not transfer cleanly to systems that don't.
 
-Leadership makes the announcement. There's energy and excitement. And then — silence. Until the next milestone. Until something goes wrong.
+5. The vendor dependency sits inside the process, not around it
 
-Transformation lives or dies on communication consistency. Not volume. Consistency. Your message needs to show up in every team meeting, every planning session, every decision — not as a separate agenda item but as the lens through which everything else is discussed.
+Digital transformation involved plenty of vendors. Core platforms, CRM, HR systems, service management — much of it bought rather than built. So the difference isn't build versus buy. It's where the dependency sits.
 
-When people stop hearing about the transformation, they assume it's over. The drumbeat never stops. That's the lesson every transformation teaches. AI is no different.
+Those were systems of record. You bought the platform and designed process around it, and when it behaved unexpectedly, it did so in ways you could reproduce, escalate and get fixed.
 
-### 04 — Education Without Application
+An AI capability sits inside a decision, in the middle of a live process. Whether it works in principle is rarely the open question — the vendor demonstrated that. What is untested is how it behaves in your pipeline: your data, your volumes, your edge cases, your existing business rules, and the handoffs downstream of it.
 
-Training happens. Usually too late. Usually too broad. Usually disconnected from actual work.
+That turns integration limits, compatibility and lock-in from procurement concerns into operational ones.
 
-People sit through a workshop on AI tools. They leave knowing what the tools are. They go back to their desks and ask — now what?
+6. Roles change, not just how the work gets done
 
-That gap — between learning and doing — is where adoption dies. The fix is not more training. It's contextual education: learning tied directly to the specific work the person does, with immediate application and a clear answer to "now what."
+Digital transformation changed how work got done, and it did eliminate and create roles along the way. But for most people who stayed, the expertise they brought remained the expertise.
 
-The challenges haven't changed. The organizations winning at AI are the ones applying lessons they already learned — from transformations they already survived.
+AI changes which decisions a person still owns, what they are accountable for, and what their judgment is now for. Training someone on a tool does not address any of that.
 
-## The One Thing That Makes AI Different
+It is also the question people are actually asking and most programs never answer: what happens to my role. Adoption rarely fails because a tool was hard to use. It fails because nobody redefined the work around it, and people don't invest real effort in something whose outcome for them is undefined.
 
-Here's where I'll challenge my own premise.
+What does carry over
 
-AI transformation shares all these challenges with every transformation that came before it. But there is one thing that makes it fundamentally different.
+Plenty. The four failures that show up in every transformation show up in this one too:
 
-It's not a choice. Agile was a choice. Digital was a choice. AI is not. It's a fundamental shift in how work gets done, how decisions get made, and how value gets created. The organizations that don't engage with it won't just fall behind. They'll become irrelevant.
+Starting without a defined problem, so nobody can say whether it was solved.
+A long-term vision with no short-term action attached, or a short-term action with no visible connection to the vision.
+Communication that runs at milestones instead of continuously.
+Education delivered without application, so people leave knowing what a tool is and not what to do differently on Monday.
 
-That changes the urgency. It changes the stakes. And it changes what leadership owes their organizations.
+You already know how to handle these. Keep doing it.
 
-## So What Do You Do With This?
+The practical implication
 
-Look back before you look forward.
+Treating AI transformation as entirely new leads to rebuilding disciplines you already have. Treating it as the next digital transformation leads to missing the things that decide whether any of it produces value.
 
-What transformation have you led or lived through that ran into the same walls? What did you learn? What worked? What would you do differently?
+The useful position is in between, and it is specific: run the management disciplines you already know, and redesign around the differences above — because those are the ones your existing playbook was never built for.
 
-Those answers are not just historical. They are directly applicable to what you're facing with AI right now.
-
-You've done this before. Start there.
-
-## What to Do This Week
-
-Questions worth sitting with — not a task list, a thinking prompt:
-
-- Think of one transformation you've led in the last ten years. Write down the three biggest challenges. Now check — are any of those same challenges showing up in your current AI program? Name them.
-- Look at your current AI communication plan. How consistent is the drumbeat? Is the message showing up in every team meeting and planning session, or only in formal updates?
-- Look at your current AI training program. For each session ask: does the person leaving know exactly what to do differently tomorrow morning? If the answer is no, that session needs to change.
-- Identify one short-term AI action you can start this quarter. Write down how it connects visibly to your long-term AI vision. If you can't connect them, your vision needs to be clearer or your action needs to change.
+Working through this in your own organization? Reach out if you want to discuss.
